@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.nr{
+  width: 100px;
+}
+#footer{
+  width: 100%;
+  height: 10rem;
+}
+#footer{
+  background-color: rgb(253, 132, 193);
+}
+.container {
+  box-shadow: 12px 12px 30px rgb(253, 132, 193);;
+}
+.niru{
+  background-color: rgb(253, 132, 193);
+  width: 100%;
+}
+.niru1{
+  background-color: rgb(253, 132, 193);
+
+}
